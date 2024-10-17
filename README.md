@@ -35,8 +35,7 @@ My name is Nguyen Phu Sang. I am a 4th year student majoring in Computer Science
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=sangn11&theme=oldie&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+
 
 ### 😂Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
