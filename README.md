@@ -1,18 +1,3 @@
-<!--
-**sangn11/sangn11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # 💫About Me :
 My name is Nguyen Phu Sang. I am a 4th year student majoring in Computer Science at Ho Chi Minh City University of Industry.
 
@@ -35,10 +20,11 @@ My name is Nguyen Phu Sang. I am a 4th year student majoring in Computer Science
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=sangn11&theme=oldie&no-frame=true&no-bg=false&margin-w=4)
 
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
-
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+/*### 😂Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>*/
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sangn11&icon=4&color=12)](https://visitcount.itsvg.in)
