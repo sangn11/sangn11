@@ -1,9 +1,9 @@
 # 💫About Me :
 My name is Nguyen Phu Sang. I am a 4th year student majoring in Computer Science at Ho Chi Minh City University of Industry.
 
-I live in Ho Chi Minh City, Vietnam
-You can contact me at sangn.personal@gmail.com
-I am studying Computer Science
+🌁 I live in Ho Chi Minh City, Vietnam
+📧 You can contact me at sangn.personal@gmail.com
+💻 I am studying Computer Science
 
 ## 🌐Socials
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/sangnguynph/projects) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.com/channels/@me) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/sangn11/?locale=vi_VN) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/itzzsng/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sangn11/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://www.pinterest.com/itzzsng/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@hellosangn) 
