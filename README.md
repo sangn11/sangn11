@@ -1,7 +1,6 @@
 ## 💫About Me :
 
-## Hi there 👋
-
+- 👋 Hi there 
 - 👤 My name is Nguyen Phu Sang
 - 🌁 I live in Ho Chi Minh City, Vietnam
 - 🔭 I’m currently working on something cool!
