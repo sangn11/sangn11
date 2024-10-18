@@ -19,5 +19,3 @@ My name is Nguyen Phu Sang. I am a 4th year student majoring in Computer Science
 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=sangn11&theme=oldie&no-frame=true&no-bg=false&margin-w=4)
-
----
