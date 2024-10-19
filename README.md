@@ -3,7 +3,7 @@
 - 👋 Hi there 
 - 👤 My name is Nguyen Phu Sang
 - 🌁 I live in Ho Chi Minh City, Vietnam
-- 🔭 I’m currently working on something cool!
+- 🔭 I'm currently working on something fun from this channel!
 - 📧 You can contact me at sangn.personal@gmail.com
 - 🌱 I am a 4th year student majoring in Computer Science at Ho Chi Minh City University of Industry
 - 💬 Ask me about GitHu
